@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "id": 1,
+      "name": "地瓜",
+      "price": 14,
+      "num": 0,
+      "total": 0
+    },
+    {
+      "id": 2,
+      "name": "苹果",
+      "price": 8.5,
+      "num": 0,
+      "total": 0
+    },
+    {
+      "id": 3,
+      "name": "草莓",
+      "price": 11,
+      "num": 0,
+      "total": 0
+    },
+    {
+      "id": 4,
+      "name": "大葱",
+      "price": 16,
+      "num": 0,
+      "total": 0
+    },
+    {
+      "id": 5,
+      "name": "黄瓜",
+      "price": 7,
+      "num": 0,
+      "total": 0
+    }
+  ]
+}
